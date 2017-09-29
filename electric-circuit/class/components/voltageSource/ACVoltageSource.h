@@ -1,0 +1,4 @@
+
+class ACVoltageSource : public VoltageSource {
+
+}

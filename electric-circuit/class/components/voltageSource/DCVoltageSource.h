@@ -1,0 +1,4 @@
+
+class DCVoltageSource: public VoltageSource {
+
+}
